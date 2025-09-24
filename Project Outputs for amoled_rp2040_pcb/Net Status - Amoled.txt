@@ -1,0 +1,44 @@
+Net Status Report
+Filename     : C:\learn_altium\PCB_Project4\amoled_rp2040_pcb\Amoled.PcbDoc
+Date         : 9/24/2025
+Time         : 10:30:18 AM
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    1.1V, Signal Layers Only, 0mm
+    3.3V, Signal Layers Only, 0mm
+    5V, Signal Layers Only, 0mm
+    Amoled_CLK, Signal Layers Only, 0mm
+    Amoled_CS, Signal Layers Only, 0mm
+    Amoled_RST, Signal Layers Only, 0mm
+    Amoled_SI1, Signal Layers Only, 0mm
+    Amoled_SI2, Signal Layers Only, 0mm
+    Amoled_SI3, Signal Layers Only, 0mm
+    Amoled_SIO0, Signal Layers Only, 0mm
+    D_N, Signal Layers Only, 0mm
+    D_P, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    NetBT1_2, Signal Layers Only, 0mm
+    NetBT2_2, Signal Layers Only, 0mm
+    NetC6_2, Signal Layers Only, 0mm
+    NetJ1_A5, Signal Layers Only, 0mm
+    NetJ1_B5, Signal Layers Only, 0mm
+    NetJ2_21, Signal Layers Only, 0mm
+    NetL1_1, Signal Layers Only, 0mm
+    NetL2_1, Signal Layers Only, 0mm
+    NetR13_1, Signal Layers Only, 0mm
+    NetR15_1, Signal Layers Only, 0mm
+    NetR4_1, Signal Layers Only, 0mm
+    NetR9_1, Signal Layers Only, 0mm
+    QSPI_SCLK, Signal Layers Only, 0mm
+    QSPI_SD0, Signal Layers Only, 0mm
+    QSPI_SD1, Signal Layers Only, 0mm
+    QSPI_SD2, Signal Layers Only, 0mm
+    QSPI_SD3, Signal Layers Only, 0mm
+    QSPI_SS_N, Signal Layers Only, 0mm
+    TP_SCL, Signal Layers Only, 0mm
+    TP_SDA, Signal Layers Only, 0mm
+    VBUS, Signal Layers Only, 0mm
+    XIN, Signal Layers Only, 0mm
+    XOUT, Signal Layers Only, 0mm
+count : 36

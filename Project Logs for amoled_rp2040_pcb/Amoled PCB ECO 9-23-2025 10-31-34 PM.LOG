@@ -1,0 +1,41 @@
+Added Component: Designator=J2(PANASONIC_AXE530127)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AXE530127/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AXE530127"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AXE530127/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AXE530127/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=TP_SCL Pin=J2-3
+Added Pin To Net: NetName=Amoled_CLK Pin=J2-4
+Added Pin To Net: NetName=TP_SDA Pin=J2-5
+Added Pin To Net: NetName=Amoled_CS Pin=J2-6
+Added Pin To Net: NetName=Amoled_SI3 Pin=J2-8
+Added Pin To Net: NetName=Amoled_SI2 Pin=J2-10
+Added Pin To Net: NetName=3.3V Pin=J2-11
+Added Pin To Net: NetName=Amoled_SI1 Pin=J2-12
+Added Pin To Net: NetName=Amoled_SIO0 Pin=J2-14
+Added Pin To Net: NetName=3.3V Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=Amoled_RST Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=NetJ2_21 Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=3.3V Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-24
+Added Pin To Net: NetName=3.3V Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=GND Pin=J2-28
+Added Pin To Net: NetName=3.3V Pin=J2-29
+Added Pin To Net: NetName=3.3V Pin=J2-30
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Member To Class: ClassName=Amoled Member=Component J2 AXE530127
